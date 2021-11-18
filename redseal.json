@@ -13,7 +13,7 @@
     "app_version": "1.0.7",
     "utctime_updated": "2021-11-10T18:03:23.000000Z",
     "package_name": "phantom_redseal",
-    "python_version": "2.7",
+    "python_version": "3",
     "main_module": "redseal_connector.py",
     "min_phantom_version": "4.10.0",
     "app_wizard_version": "1.0.0",
